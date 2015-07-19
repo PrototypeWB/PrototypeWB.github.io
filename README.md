@@ -4,19 +4,8 @@
 ***           
 #距离任务一截至时间还剩6天
 ***
-####2015年7月19日学习、开发进展情况汇总：
-#####呆呆鱼：无进展，确认使用phaser引擎，发现好的网站如下：
-    1、【翻译】前端开发人员入门指南，从零开始搭建Node.js, Express, Jade, Mongodb服务器     
-      http://www.unfish.net/archives/772-20131207.html
-    2、phaser官网教程，可用谷歌翻译
-      http://phaser.io/tutorials/getting-started/index
-    3、序号1中第2步与第3步有问题，在下述链接解决
-      http://blog.csdn.net/haidaochen/article/details/7257655
-#####星空亮：
-#####Monologue~：
-#####软软猫：
-#####青豆：
-#####溪：
+####资源分享链接：
+    1、Markdown语法：http://wowubuntu.com/markdown/
 ***
 ####明日任务：确定游戏开发引擎，并学习、掌握引擎开发流程
 ####2015年7月18日游戏方案讨论纪要
