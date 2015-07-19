@@ -2,10 +2,14 @@
 ##队名：你说对不队（6人）
 ##组员：呆呆鱼、星空亮、Monologue~、软软猫、青豆、溪            
 ***           
-#距离任务一截至时间还剩7天
+#距离任务一截至时间还剩6天
 ***
 ####2015年7月19日学习、开发进展情况汇总：
-#####呆呆鱼：
+#####呆呆鱼：无进展，确认使用phaser引擎，发现好的网站如下：
+    1、【翻译】前端开发人员入门指南，从零开始搭建Node.js, Express, Jade, Mongodb服务器     
+      http://www.unfish.net/archives/772-20131207.html
+    2、phaser官网教程，可用谷歌翻译
+      http://phaser.io/tutorials/getting-started/index
 #####星空亮：
 #####Monologue~：
 #####软软猫：
