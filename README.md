@@ -4,8 +4,11 @@
 ***           
 #距离任务一截至时间还剩6天
 ***
-####资源分享链接：
-    1、Markdown语法：http://wowubuntu.com/markdown/
+####网站链接：
+######1、Markdown语法：http://wowubuntu.com/markdown/
+######2、git官网：https://git-scm.com/
+######3、Browser-sync官网：http://www.browsersync.io/
+######4、phaser官网：http://phaser.io/
 ***
 ####明日任务：确定游戏开发引擎，并学习、掌握引擎开发流程
 ####2015年7月18日游戏方案讨论纪要
