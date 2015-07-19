@@ -10,6 +10,8 @@
       http://www.unfish.net/archives/772-20131207.html
     2、phaser官网教程，可用谷歌翻译
       http://phaser.io/tutorials/getting-started/index
+    3、序号1中第2步与第3步有问题，在下述链接解决
+      http://blog.csdn.net/haidaochen/article/details/7257655
 #####星空亮：
 #####Monologue~：
 #####软软猫：
