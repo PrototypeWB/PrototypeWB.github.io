@@ -11,6 +11,7 @@
 ######4、phaser官网：http://phaser.io/
 ######5、phaser example：http://phaser.io/examples
 ######6、phaser 贪吃蛇教程：http://tutorialzine.com/2015/06/making-your-first-html5-game-with-phaser/
+######7、phaser FlappyBird：http://blog.jobbole.com/62203/
 ***
 ####明日任务：确定游戏开发引擎，并学习、掌握引擎开发流程
 ####2015年7月18日游戏方案讨论纪要
