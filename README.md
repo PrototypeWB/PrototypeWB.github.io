@@ -2,7 +2,8 @@
 ##队名：你说对不队（6人）
 ##组员：呆呆鱼、星空亮、Monologue~、软软猫、青豆、溪            
 ***           
-#距离任务一截至时间还剩6天
+#距离任务一截至时间还剩5天
+##DEMO地址：https://github.com/PrototypeWB/jianyuanbao
 ***
 ####网站链接：
 ######1、Markdown语法：http://wowubuntu.com/markdown/
