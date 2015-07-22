@@ -6,7 +6,7 @@
 ##DEMO地址：https://github.com/PrototypeWB/jianyuanbao
 ***
 ####网站链接：
-######1、Markdown语法：http://wowubuntu.com/markdown/
+######1、Markdown语法：https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown
 ######2、git官网：https://git-scm.com/
 ######3、Browser-sync官网：http://www.browsersync.io/
 ######4、phaser官网：http://phaser.io/
