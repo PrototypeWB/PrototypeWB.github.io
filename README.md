@@ -2,8 +2,12 @@
 ##队名：你说对不队（6人）
 ##组员：呆呆鱼、星空亮、Monologue~、软软猫、青豆、溪            
 ***           
-#距离任务一截至时间还剩5天
-##DEMO地址：https://github.com/PrototypeWB/jianyuanbao
+#距离任务二截至时间还剩15天
+######任务二说明地址：https://github.com/baidu-ife/ife/blob/master/2015_summer/task/game_yangfan_02.md
+***
+
+***
+##任务一地址：https://github.com/PrototypeWB/jianyuanbao
 ***
 ####网站链接：
 ######1、Markdown语法：https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown
